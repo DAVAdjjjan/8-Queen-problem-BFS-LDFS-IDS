@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Full.TreeNode">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAEQAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.SimplifyProblem">
+    <Position X="12.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgAAgAAAQAQAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimplifyProblem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.SearchResult">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.SearchAlgorithms">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAAAAAAAAABAEEAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>SearchAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.Queen">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAEAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Queen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.ChessBoard">
+    <Position X="2.75" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAggAAEAAAEAACAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ChessBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.Program">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Full.Form1">
+    <Position X="6.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BiACoIMiAABAAwQoIQoACgGiAAAZAAgIhERQBAACGEE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
